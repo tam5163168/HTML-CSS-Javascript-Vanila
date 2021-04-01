@@ -1,0 +1,17 @@
+.container {
+    max-width: 1140px;
+    padding: 0 2rem;
+    margin: 0 auto;
+}
+
+.container__page {
+    max-width: 1300px;
+    padding: 0 2rem;
+    margin: 0 auto;
+}
+
+.grid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
